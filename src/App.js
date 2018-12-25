@@ -4,6 +4,7 @@ import { flatten } from "lodash"
 import Repo from "./Repo"
 
 const API_URL = "https://easy-issues.herokuapp.com/api/orgs"
+// const API_URL = "http://localhost:3004/api/orgs"
 
 const languages = [
   "All",
